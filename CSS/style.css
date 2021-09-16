@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+body { 
+    font-size: 18px;
+}
+body { 
+    font-weight: 900;
+}
+#titulo
+  {
+    font-size: 37px;
+   line-height: 46px;
+   font-family: Tahoma, helvetica, sans-serif;
+color: #000;
+}
+
+.grupoA
+{
+font-family: tahoma, helvetica, sans-serif;
+font-size: 25px;
+line-height: 38px;
+}
+.grupoB {
+    width: 50%; height: 100%;
+}
+
+.grupoC {
+    font-size: 18px;
+line-height: 27px;
+color: #300;
+}
+  
